@@ -38,6 +38,7 @@
       "PRESSURE": 1013.65,
       "PRESSURE_UNIT": "hPa",
       "PRESSURE_isValid": true
-    }}
+    }
+    }
   ]
 }
