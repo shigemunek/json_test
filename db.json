@@ -1,0 +1,940 @@
+{
+  "ID": "OMR_20220401_01",
+  "M_ID": "SVA2210001",
+  "20220401_0000": {
+    "isOperation": true,
+    "ACTf-CAD_01": {
+      "isOperation": true,
+      "WATER_TEMP": 21.32,
+      "WATER_TEMP_UNIT": "℃",
+      "WATER_TEMP_isValid": true,
+      "SALT": 32.1,
+      "SALT_UNIT": "‰",
+      "SALT _isValid": true,
+      "CONDUCTIVITY": 42.85,
+      "CONDUCTIVITY_UNIT": "mS/cm",
+      "CONDUCTIVITY_isValid": true
+    },
+    "AROf-CAD_01": {
+      "isOperation": true,
+      "WATER_TEMP": 21.32,
+      "WATER_TEMP_UNIT": "℃",
+      "WATER_TEMP_isValid": true,
+      "DOL": 98.1,
+      "DOL_UNIT": "%",
+      "DOL_isValid": true,
+      "DO": 6.85,
+      "DO_UNIT": "mg/l",
+      "DO_isValid": true
+    },
+    "BME280_01": {
+      "isOperation": true,
+      "TEMP": 21.32,
+      "TEMP_UNIT": "℃",
+      "TEMP_isValid": true,
+      "HUMIDITY": 98.1,
+      "HUMIDITY_UNIT": "%",
+      "HUMIDITY_isValid": true,
+      "PRESSURE": 1013.65,
+      "PRESSURE_UNIT": "hPa",
+      "PRESSURE_isValid": true
+    }
+  },
+  "20220401_0100": {
+    "isOperation": true,
+    "ACTf-CAD_01": {
+      "isOperation": true,
+      "WATER_TEMP": 21.32,
+      "WATER_TEMP_UNIT": "℃",
+      "WATER_TEMP_isValid": true,
+      "SALT": 32.1,
+      "SALT_UNIT": "‰",
+      "SALT _isValid": true,
+      "CONDUCTIVITY": 42.85,
+      "CONDUCTIVITY_UNIT": "mS/cm",
+      "CONDUCTIVITY_isValid": true
+    },
+    "AROf-CAD_01": {
+      "isOperation": true,
+      "WATER_TEMP": 21.32,
+      "WATER_TEMP_UNIT": "℃",
+      "WATER_TEMP_isValid": true,
+      "DOL": 98.1,
+      "DOL_UNIT": "%",
+      "DOL_isValid": true,
+      "DO": 6.85,
+      "DO_UNIT": "mg/l",
+      "DO_isValid": true
+    },
+    "BME280_01": {
+      "isOperation": true,
+      "TEMP": 21.32,
+      "TEMP_UNIT": "℃",
+      "TEMP_isValid": true,
+      "HUMIDITY": 98.1,
+      "HUMIDITY_UNIT": "%",
+      "HUMIDITY_isValid": true,
+      "PRESSURE": 1013.65,
+      "PRESSURE_UNIT": "hPa",
+      "PRESSURE_isValid": true
+    }
+  },
+  "20220401_0200": {
+    "isOperation": true,
+    "ACTf-CAD_01": {
+      "isOperation": true,
+      "WATER_TEMP": 21.32,
+      "WATER_TEMP_UNIT": "℃",
+      "WATER_TEMP_isValid": true,
+      "SALT": 32.1,
+      "SALT_UNIT": "‰",
+      "SALT _isValid": true,
+      "CONDUCTIVITY": 42.85,
+      "CONDUCTIVITY_UNIT": "mS/cm",
+      "CONDUCTIVITY_isValid": true
+    },
+    "AROf-CAD_01": {
+      "isOperation": true,
+      "WATER_TEMP": 21.32,
+      "WATER_TEMP_UNIT": "℃",
+      "WATER_TEMP_isValid": true,
+      "DOL": 98.1,
+      "DOL_UNIT": "%",
+      "DOL_isValid": true,
+      "DO": 6.85,
+      "DO_UNIT": "mg/l",
+      "DO_isValid": true
+    },
+    "BME280_01": {
+      "isOperation": true,
+      "TEMP": 21.32,
+      "TEMP_UNIT": "℃",
+      "TEMP_isValid": true,
+      "HUMIDITY": 98.1,
+      "HUMIDITY_UNIT": "%",
+      "HUMIDITY_isValid": true,
+      "PRESSURE": 1013.65,
+      "PRESSURE_UNIT": "hPa",
+      "PRESSURE_isValid": true
+    }
+  },
+  "20220401_0300": {
+    "isOperation": true,
+    "ACTf-CAD_01": {
+      "isOperation": true,
+      "WATER_TEMP": 21.32,
+      "WATER_TEMP_UNIT": "℃",
+      "WATER_TEMP_isValid": true,
+      "SALT": 32.1,
+      "SALT_UNIT": "‰",
+      "SALT _isValid": true,
+      "CONDUCTIVITY": 42.85,
+      "CONDUCTIVITY_UNIT": "mS/cm",
+      "CONDUCTIVITY_isValid": true
+    },
+    "AROf-CAD_01": {
+      "isOperation": true,
+      "WATER_TEMP": 21.32,
+      "WATER_TEMP_UNIT": "℃",
+      "WATER_TEMP_isValid": true,
+      "DOL": 98.1,
+      "DOL_UNIT": "%",
+      "DOL_isValid": true,
+      "DO": 6.85,
+      "DO_UNIT": "mg/l",
+      "DO_isValid": true
+    },
+    "BME280_01": {
+      "isOperation": true,
+      "TEMP": 21.32,
+      "TEMP_UNIT": "℃",
+      "TEMP_isValid": true,
+      "HUMIDITY": 98.1,
+      "HUMIDITY_UNIT": "%",
+      "HUMIDITY_isValid": true,
+      "PRESSURE": 1013.65,
+      "PRESSURE_UNIT": "hPa",
+      "PRESSURE_isValid": true
+    }
+  },
+  "20220401_0400": {
+    "isOperation": true,
+    "ACTf-CAD_01": {
+      "isOperation": true,
+      "WATER_TEMP": 21.32,
+      "WATER_TEMP_UNIT": "℃",
+      "WATER_TEMP_isValid": true,
+      "SALT": 32.1,
+      "SALT_UNIT": "‰",
+      "SALT _isValid": true,
+      "CONDUCTIVITY": 42.85,
+      "CONDUCTIVITY_UNIT": "mS/cm",
+      "CONDUCTIVITY_isValid": true
+    },
+    "AROf-CAD_01": {
+      "isOperation": true,
+      "WATER_TEMP": 21.32,
+      "WATER_TEMP_UNIT": "℃",
+      "WATER_TEMP_isValid": true,
+      "DOL": 98.1,
+      "DOL_UNIT": "%",
+      "DOL_isValid": true,
+      "DO": 6.85,
+      "DO_UNIT": "mg/l",
+      "DO_isValid": true
+    },
+    "BME280_01": {
+      "isOperation": true,
+      "TEMP": 21.32,
+      "TEMP_UNIT": "℃",
+      "TEMP_isValid": true,
+      "HUMIDITY": 98.1,
+      "HUMIDITY_UNIT": "%",
+      "HUMIDITY_isValid": true,
+      "PRESSURE": 1013.65,
+      "PRESSURE_UNIT": "hPa",
+      "PRESSURE_isValid": true
+    }
+  },
+  "20220401_0500": {
+    "isOperation": true,
+    "ACTf-CAD_01": {
+      "isOperation": true,
+      "WATER_TEMP": 21.32,
+      "WATER_TEMP_UNIT": "℃",
+      "WATER_TEMP_isValid": true,
+      "SALT": 32.1,
+      "SALT_UNIT": "‰",
+      "SALT _isValid": true,
+      "CONDUCTIVITY": 42.85,
+      "CONDUCTIVITY_UNIT": "mS/cm",
+      "CONDUCTIVITY_isValid": true
+    },
+    "AROf-CAD_01": {
+      "isOperation": true,
+      "WATER_TEMP": 21.32,
+      "WATER_TEMP_UNIT": "℃",
+      "WATER_TEMP_isValid": true,
+      "DOL": 98.1,
+      "DOL_UNIT": "%",
+      "DOL_isValid": true,
+      "DO": 6.85,
+      "DO_UNIT": "mg/l",
+      "DO_isValid": true
+    },
+    "BME280_01": {
+      "isOperation": true,
+      "TEMP": 21.32,
+      "TEMP_UNIT": "℃",
+      "TEMP_isValid": true,
+      "HUMIDITY": 98.1,
+      "HUMIDITY_UNIT": "%",
+      "HUMIDITY_isValid": true,
+      "PRESSURE": 1013.65,
+      "PRESSURE_UNIT": "hPa",
+      "PRESSURE_isValid": true
+    }
+  },
+  "20220401_0600": {
+    "isOperation": true,
+    "ACTf-CAD_01": {
+      "isOperation": true,
+      "WATER_TEMP": 21.32,
+      "WATER_TEMP_UNIT": "℃",
+      "WATER_TEMP_isValid": true,
+      "SALT": 32.1,
+      "SALT_UNIT": "‰",
+      "SALT _isValid": true,
+      "CONDUCTIVITY": 42.85,
+      "CONDUCTIVITY_UNIT": "mS/cm",
+      "CONDUCTIVITY_isValid": true
+    },
+    "AROf-CAD_01": {
+      "isOperation": true,
+      "WATER_TEMP": 21.32,
+      "WATER_TEMP_UNIT": "℃",
+      "WATER_TEMP_isValid": true,
+      "DOL": 98.1,
+      "DOL_UNIT": "%",
+      "DOL_isValid": true,
+      "DO": 6.85,
+      "DO_UNIT": "mg/l",
+      "DO_isValid": true
+    },
+    "BME280_01": {
+      "isOperation": true,
+      "TEMP": 21.32,
+      "TEMP_UNIT": "℃",
+      "TEMP_isValid": true,
+      "HUMIDITY": 98.1,
+      "HUMIDITY_UNIT": "%",
+      "HUMIDITY_isValid": true,
+      "PRESSURE": 1013.65,
+      "PRESSURE_UNIT": "hPa",
+      "PRESSURE_isValid": true
+    }
+  },
+  "20220401_0700": {
+    "isOperation": true,
+    "ACTf-CAD_01": {
+      "isOperation": true,
+      "WATER_TEMP": 21.32,
+      "WATER_TEMP_UNIT": "℃",
+      "WATER_TEMP_isValid": true,
+      "SALT": 32.1,
+      "SALT_UNIT": "‰",
+      "SALT _isValid": true,
+      "CONDUCTIVITY": 42.85,
+      "CONDUCTIVITY_UNIT": "mS/cm",
+      "CONDUCTIVITY_isValid": true
+    },
+    "AROf-CAD_01": {
+      "isOperation": true,
+      "WATER_TEMP": 21.32,
+      "WATER_TEMP_UNIT": "℃",
+      "WATER_TEMP_isValid": true,
+      "DOL": 98.1,
+      "DOL_UNIT": "%",
+      "DOL_isValid": true,
+      "DO": 6.85,
+      "DO_UNIT": "mg/l",
+      "DO_isValid": true
+    },
+    "BME280_01": {
+      "isOperation": true,
+      "TEMP": 21.32,
+      "TEMP_UNIT": "℃",
+      "TEMP_isValid": true,
+      "HUMIDITY": 98.1,
+      "HUMIDITY_UNIT": "%",
+      "HUMIDITY_isValid": true,
+      "PRESSURE": 1013.65,
+      "PRESSURE_UNIT": "hPa",
+      "PRESSURE_isValid": true
+    }
+  },
+  "20220401_0800": {
+    "isOperation": true,
+    "ACTf-CAD_01": {
+      "isOperation": true,
+      "WATER_TEMP": 21.32,
+      "WATER_TEMP_UNIT": "℃",
+      "WATER_TEMP_isValid": true,
+      "SALT": 32.1,
+      "SALT_UNIT": "‰",
+      "SALT _isValid": true,
+      "CONDUCTIVITY": 42.85,
+      "CONDUCTIVITY_UNIT": "mS/cm",
+      "CONDUCTIVITY_isValid": true
+    },
+    "AROf-CAD_01": {
+      "isOperation": true,
+      "WATER_TEMP": 21.32,
+      "WATER_TEMP_UNIT": "℃",
+      "WATER_TEMP_isValid": true,
+      "DOL": 98.1,
+      "DOL_UNIT": "%",
+      "DOL_isValid": true,
+      "DO": 6.85,
+      "DO_UNIT": "mg/l",
+      "DO_isValid": true
+    },
+    "BME280_01": {
+      "isOperation": true,
+      "TEMP": 21.32,
+      "TEMP_UNIT": "℃",
+      "TEMP_isValid": true,
+      "HUMIDITY": 98.1,
+      "HUMIDITY_UNIT": "%",
+      "HUMIDITY_isValid": true,
+      "PRESSURE": 1013.65,
+      "PRESSURE_UNIT": "hPa",
+      "PRESSURE_isValid": true
+    }
+  },
+  "20220401_0900": {
+    "isOperation": true,
+    "ACTf-CAD_01": {
+      "isOperation": true,
+      "WATER_TEMP": 21.32,
+      "WATER_TEMP_UNIT": "℃",
+      "WATER_TEMP_isValid": true,
+      "SALT": 32.1,
+      "SALT_UNIT": "‰",
+      "SALT _isValid": true,
+      "CONDUCTIVITY": 42.85,
+      "CONDUCTIVITY_UNIT": "mS/cm",
+      "CONDUCTIVITY_isValid": true
+    },
+    "AROf-CAD_01": {
+      "isOperation": true,
+      "WATER_TEMP": 21.32,
+      "WATER_TEMP_UNIT": "℃",
+      "WATER_TEMP_isValid": true,
+      "DOL": 98.1,
+      "DOL_UNIT": "%",
+      "DOL_isValid": true,
+      "DO": 6.85,
+      "DO_UNIT": "mg/l",
+      "DO_isValid": true
+    },
+    "BME280_01": {
+      "isOperation": true,
+      "TEMP": 21.32,
+      "TEMP_UNIT": "℃",
+      "TEMP_isValid": true,
+      "HUMIDITY": 98.1,
+      "HUMIDITY_UNIT": "%",
+      "HUMIDITY_isValid": true,
+      "PRESSURE": 1013.65,
+      "PRESSURE_UNIT": "hPa",
+      "PRESSURE_isValid": true
+    }
+  },
+  "20220401_1000": {
+    "isOperation": true,
+    "ACTf-CAD_01": {
+      "isOperation": true,
+      "WATER_TEMP": 21.32,
+      "WATER_TEMP_UNIT": "℃",
+      "WATER_TEMP_isValid": true,
+      "SALT": 32.1,
+      "SALT_UNIT": "‰",
+      "SALT _isValid": true,
+      "CONDUCTIVITY": 42.85,
+      "CONDUCTIVITY_UNIT": "mS/cm",
+      "CONDUCTIVITY_isValid": true
+    },
+    "AROf-CAD_01": {
+      "isOperation": true,
+      "WATER_TEMP": 21.32,
+      "WATER_TEMP_UNIT": "℃",
+      "WATER_TEMP_isValid": true,
+      "DOL": 98.1,
+      "DOL_UNIT": "%",
+      "DOL_isValid": true,
+      "DO": 6.85,
+      "DO_UNIT": "mg/l",
+      "DO_isValid": true
+    },
+    "BME280_01": {
+      "isOperation": true,
+      "TEMP": 21.32,
+      "TEMP_UNIT": "℃",
+      "TEMP_isValid": true,
+      "HUMIDITY": 98.1,
+      "HUMIDITY_UNIT": "%",
+      "HUMIDITY_isValid": true,
+      "PRESSURE": 1013.65,
+      "PRESSURE_UNIT": "hPa",
+      "PRESSURE_isValid": true
+    }
+  },
+  "20220401_1100": {
+    "isOperation": true,
+    "ACTf-CAD_01": {
+      "isOperation": true,
+      "WATER_TEMP": 21.32,
+      "WATER_TEMP_UNIT": "℃",
+      "WATER_TEMP_isValid": true,
+      "SALT": 32.1,
+      "SALT_UNIT": "‰",
+      "SALT _isValid": true,
+      "CONDUCTIVITY": 42.85,
+      "CONDUCTIVITY_UNIT": "mS/cm",
+      "CONDUCTIVITY_isValid": true
+    },
+    "AROf-CAD_01": {
+      "isOperation": true,
+      "WATER_TEMP": 21.32,
+      "WATER_TEMP_UNIT": "℃",
+      "WATER_TEMP_isValid": true,
+      "DOL": 98.1,
+      "DOL_UNIT": "%",
+      "DOL_isValid": true,
+      "DO": 6.85,
+      "DO_UNIT": "mg/l",
+      "DO_isValid": true
+    },
+    "BME280_01": {
+      "isOperation": true,
+      "TEMP": 21.32,
+      "TEMP_UNIT": "℃",
+      "TEMP_isValid": true,
+      "HUMIDITY": 98.1,
+      "HUMIDITY_UNIT": "%",
+      "HUMIDITY_isValid": true,
+      "PRESSURE": 1013.65,
+      "PRESSURE_UNIT": "hPa",
+      "PRESSURE_isValid": true
+    }
+  },
+  "20220401_1200": {
+    "isOperation": true,
+    "ACTf-CAD_01": {
+      "isOperation": true,
+      "WATER_TEMP": 21.32,
+      "WATER_TEMP_UNIT": "℃",
+      "WATER_TEMP_isValid": true,
+      "SALT": 32.1,
+      "SALT_UNIT": "‰",
+      "SALT _isValid": true,
+      "CONDUCTIVITY": 42.85,
+      "CONDUCTIVITY_UNIT": "mS/cm",
+      "CONDUCTIVITY_isValid": true
+    },
+    "AROf-CAD_01": {
+      "isOperation": true,
+      "WATER_TEMP": 21.32,
+      "WATER_TEMP_UNIT": "℃",
+      "WATER_TEMP_isValid": true,
+      "DOL": 98.1,
+      "DOL_UNIT": "%",
+      "DOL_isValid": true,
+      "DO": 6.85,
+      "DO_UNIT": "mg/l",
+      "DO_isValid": true
+    },
+    "BME280_01": {
+      "isOperation": true,
+      "TEMP": 21.32,
+      "TEMP_UNIT": "℃",
+      "TEMP_isValid": true,
+      "HUMIDITY": 98.1,
+      "HUMIDITY_UNIT": "%",
+      "HUMIDITY_isValid": true,
+      "PRESSURE": 1013.65,
+      "PRESSURE_UNIT": "hPa",
+      "PRESSURE_isValid": true
+    }
+  },
+  "20220401_1300": {
+    "isOperation": true,
+    "ACTf-CAD_01": {
+      "isOperation": true,
+      "WATER_TEMP": 21.32,
+      "WATER_TEMP_UNIT": "℃",
+      "WATER_TEMP_isValid": true,
+      "SALT": 32.1,
+      "SALT_UNIT": "‰",
+      "SALT _isValid": true,
+      "CONDUCTIVITY": 42.85,
+      "CONDUCTIVITY_UNIT": "mS/cm",
+      "CONDUCTIVITY_isValid": true
+    },
+    "AROf-CAD_01": {
+      "isOperation": true,
+      "WATER_TEMP": 21.32,
+      "WATER_TEMP_UNIT": "℃",
+      "WATER_TEMP_isValid": true,
+      "DOL": 98.1,
+      "DOL_UNIT": "%",
+      "DOL_isValid": true,
+      "DO": 6.85,
+      "DO_UNIT": "mg/l",
+      "DO_isValid": true
+    },
+    "BME280_01": {
+      "isOperation": true,
+      "TEMP": 21.32,
+      "TEMP_UNIT": "℃",
+      "TEMP_isValid": true,
+      "HUMIDITY": 98.1,
+      "HUMIDITY_UNIT": "%",
+      "HUMIDITY_isValid": true,
+      "PRESSURE": 1013.65,
+      "PRESSURE_UNIT": "hPa",
+      "PRESSURE_isValid": true
+    }
+  },
+  "20220401_1400": {
+    "isOperation": true,
+    "ACTf-CAD_01": {
+      "isOperation": true,
+      "WATER_TEMP": 21.32,
+      "WATER_TEMP_UNIT": "℃",
+      "WATER_TEMP_isValid": true,
+      "SALT": 32.1,
+      "SALT_UNIT": "‰",
+      "SALT _isValid": true,
+      "CONDUCTIVITY": 42.85,
+      "CONDUCTIVITY_UNIT": "mS/cm",
+      "CONDUCTIVITY_isValid": true
+    },
+    "AROf-CAD_01": {
+      "isOperation": true,
+      "WATER_TEMP": 21.32,
+      "WATER_TEMP_UNIT": "℃",
+      "WATER_TEMP_isValid": true,
+      "DOL": 98.1,
+      "DOL_UNIT": "%",
+      "DOL_isValid": true,
+      "DO": 6.85,
+      "DO_UNIT": "mg/l",
+      "DO_isValid": true
+    },
+    "BME280_01": {
+      "isOperation": true,
+      "TEMP": 21.32,
+      "TEMP_UNIT": "℃",
+      "TEMP_isValid": true,
+      "HUMIDITY": 98.1,
+      "HUMIDITY_UNIT": "%",
+      "HUMIDITY_isValid": true,
+      "PRESSURE": 1013.65,
+      "PRESSURE_UNIT": "hPa",
+      "PRESSURE_isValid": true
+    }
+  },
+  "20220401_1500": {
+    "isOperation": true,
+    "ACTf-CAD_01": {
+      "isOperation": true,
+      "WATER_TEMP": 21.32,
+      "WATER_TEMP_UNIT": "℃",
+      "WATER_TEMP_isValid": true,
+      "SALT": 32.1,
+      "SALT_UNIT": "‰",
+      "SALT _isValid": true,
+      "CONDUCTIVITY": 42.85,
+      "CONDUCTIVITY_UNIT": "mS/cm",
+      "CONDUCTIVITY_isValid": true
+    },
+    "AROf-CAD_01": {
+      "isOperation": true,
+      "WATER_TEMP": 21.32,
+      "WATER_TEMP_UNIT": "℃",
+      "WATER_TEMP_isValid": true,
+      "DOL": 98.1,
+      "DOL_UNIT": "%",
+      "DOL_isValid": true,
+      "DO": 6.85,
+      "DO_UNIT": "mg/l",
+      "DO_isValid": true
+    },
+    "BME280_01": {
+      "isOperation": true,
+      "TEMP": 21.32,
+      "TEMP_UNIT": "℃",
+      "TEMP_isValid": true,
+      "HUMIDITY": 98.1,
+      "HUMIDITY_UNIT": "%",
+      "HUMIDITY_isValid": true,
+      "PRESSURE": 1013.65,
+      "PRESSURE_UNIT": "hPa",
+      "PRESSURE_isValid": true
+    }
+  },
+  "20220401_1600": {
+    "isOperation": true,
+    "ACTf-CAD_01": {
+      "isOperation": true,
+      "WATER_TEMP": 21.32,
+      "WATER_TEMP_UNIT": "℃",
+      "WATER_TEMP_isValid": true,
+      "SALT": 32.1,
+      "SALT_UNIT": "‰",
+      "SALT _isValid": true,
+      "CONDUCTIVITY": 42.85,
+      "CONDUCTIVITY_UNIT": "mS/cm",
+      "CONDUCTIVITY_isValid": true
+    },
+    "AROf-CAD_01": {
+      "isOperation": true,
+      "WATER_TEMP": 21.32,
+      "WATER_TEMP_UNIT": "℃",
+      "WATER_TEMP_isValid": true,
+      "DOL": 98.1,
+      "DOL_UNIT": "%",
+      "DOL_isValid": true,
+      "DO": 6.85,
+      "DO_UNIT": "mg/l",
+      "DO_isValid": true
+    },
+    "BME280_01": {
+      "isOperation": true,
+      "TEMP": 21.32,
+      "TEMP_UNIT": "℃",
+      "TEMP_isValid": true,
+      "HUMIDITY": 98.1,
+      "HUMIDITY_UNIT": "%",
+      "HUMIDITY_isValid": true,
+      "PRESSURE": 1013.65,
+      "PRESSURE_UNIT": "hPa",
+      "PRESSURE_isValid": true
+    }
+  },
+  "20220401_1700": {
+    "isOperation": true,
+    "ACTf-CAD_01": {
+      "isOperation": true,
+      "WATER_TEMP": 21.32,
+      "WATER_TEMP_UNIT": "℃",
+      "WATER_TEMP_isValid": true,
+      "SALT": 32.1,
+      "SALT_UNIT": "‰",
+      "SALT _isValid": true,
+      "CONDUCTIVITY": 42.85,
+      "CONDUCTIVITY_UNIT": "mS/cm",
+      "CONDUCTIVITY_isValid": true
+    },
+    "AROf-CAD_01": {
+      "isOperation": true,
+      "WATER_TEMP": 21.32,
+      "WATER_TEMP_UNIT": "℃",
+      "WATER_TEMP_isValid": true,
+      "DOL": 98.1,
+      "DOL_UNIT": "%",
+      "DOL_isValid": true,
+      "DO": 6.85,
+      "DO_UNIT": "mg/l",
+      "DO_isValid": true
+    },
+    "BME280_01": {
+      "isOperation": true,
+      "TEMP": 21.32,
+      "TEMP_UNIT": "℃",
+      "TEMP_isValid": true,
+      "HUMIDITY": 98.1,
+      "HUMIDITY_UNIT": "%",
+      "HUMIDITY_isValid": true,
+      "PRESSURE": 1013.65,
+      "PRESSURE_UNIT": "hPa",
+      "PRESSURE_isValid": true
+    }
+  },
+  "20220401_1800": {
+    "isOperation": true,
+    "ACTf-CAD_01": {
+      "isOperation": true,
+      "WATER_TEMP": 21.32,
+      "WATER_TEMP_UNIT": "℃",
+      "WATER_TEMP_isValid": true,
+      "SALT": 32.1,
+      "SALT_UNIT": "‰",
+      "SALT _isValid": true,
+      "CONDUCTIVITY": 42.85,
+      "CONDUCTIVITY_UNIT": "mS/cm",
+      "CONDUCTIVITY_isValid": true
+    },
+    "AROf-CAD_01": {
+      "isOperation": true,
+      "WATER_TEMP": 21.32,
+      "WATER_TEMP_UNIT": "℃",
+      "WATER_TEMP_isValid": true,
+      "DOL": 98.1,
+      "DOL_UNIT": "%",
+      "DOL_isValid": true,
+      "DO": 6.85,
+      "DO_UNIT": "mg/l",
+      "DO_isValid": true
+    },
+    "BME280_01": {
+      "isOperation": true,
+      "TEMP": 21.32,
+      "TEMP_UNIT": "℃",
+      "TEMP_isValid": true,
+      "HUMIDITY": 98.1,
+      "HUMIDITY_UNIT": "%",
+      "HUMIDITY_isValid": true,
+      "PRESSURE": 1013.65,
+      "PRESSURE_UNIT": "hPa",
+      "PRESSURE_isValid": true
+    }
+  },
+  "20220401_1900": {
+    "isOperation": true,
+    "ACTf-CAD_01": {
+      "isOperation": true,
+      "WATER_TEMP": 21.32,
+      "WATER_TEMP_UNIT": "℃",
+      "WATER_TEMP_isValid": true,
+      "SALT": 32.1,
+      "SALT_UNIT": "‰",
+      "SALT _isValid": true,
+      "CONDUCTIVITY": 42.85,
+      "CONDUCTIVITY_UNIT": "mS/cm",
+      "CONDUCTIVITY_isValid": true
+    },
+    "AROf-CAD_01": {
+      "isOperation": true,
+      "WATER_TEMP": 21.32,
+      "WATER_TEMP_UNIT": "℃",
+      "WATER_TEMP_isValid": true,
+      "DOL": 98.1,
+      "DOL_UNIT": "%",
+      "DOL_isValid": true,
+      "DO": 6.85,
+      "DO_UNIT": "mg/l",
+      "DO_isValid": true
+    },
+    "BME280_01": {
+      "isOperation": true,
+      "TEMP": 21.32,
+      "TEMP_UNIT": "℃",
+      "TEMP_isValid": true,
+      "HUMIDITY": 98.1,
+      "HUMIDITY_UNIT": "%",
+      "HUMIDITY_isValid": true,
+      "PRESSURE": 1013.65,
+      "PRESSURE_UNIT": "hPa",
+      "PRESSURE_isValid": true
+    }
+  },
+  "20220401_2000": {
+    "isOperation": true,
+    "ACTf-CAD_01": {
+      "isOperation": true,
+      "WATER_TEMP": 21.32,
+      "WATER_TEMP_UNIT": "℃",
+      "WATER_TEMP_isValid": true,
+      "SALT": 32.1,
+      "SALT_UNIT": "‰",
+      "SALT _isValid": true,
+      "CONDUCTIVITY": 42.85,
+      "CONDUCTIVITY_UNIT": "mS/cm",
+      "CONDUCTIVITY_isValid": true
+    },
+    "AROf-CAD_01": {
+      "isOperation": true,
+      "WATER_TEMP": 21.32,
+      "WATER_TEMP_UNIT": "℃",
+      "WATER_TEMP_isValid": true,
+      "DOL": 98.1,
+      "DOL_UNIT": "%",
+      "DOL_isValid": true,
+      "DO": 6.85,
+      "DO_UNIT": "mg/l",
+      "DO_isValid": true
+    },
+    "BME280_01": {
+      "isOperation": true,
+      "TEMP": 21.32,
+      "TEMP_UNIT": "℃",
+      "TEMP_isValid": true,
+      "HUMIDITY": 98.1,
+      "HUMIDITY_UNIT": "%",
+      "HUMIDITY_isValid": true,
+      "PRESSURE": 1013.65,
+      "PRESSURE_UNIT": "hPa",
+      "PRESSURE_isValid": true
+    }
+  },
+  "20220401_2100": {
+    "isOperation": true,
+    "ACTf-CAD_01": {
+      "isOperation": true,
+      "WATER_TEMP": 21.32,
+      "WATER_TEMP_UNIT": "℃",
+      "WATER_TEMP_isValid": true,
+      "SALT": 32.1,
+      "SALT_UNIT": "‰",
+      "SALT _isValid": true,
+      "CONDUCTIVITY": 42.85,
+      "CONDUCTIVITY_UNIT": "mS/cm",
+      "CONDUCTIVITY_isValid": true
+    },
+    "AROf-CAD_01": {
+      "isOperation": true,
+      "WATER_TEMP": 21.32,
+      "WATER_TEMP_UNIT": "℃",
+      "WATER_TEMP_isValid": true,
+      "DOL": 98.1,
+      "DOL_UNIT": "%",
+      "DOL_isValid": true,
+      "DO": 6.85,
+      "DO_UNIT": "mg/l",
+      "DO_isValid": true
+    },
+    "BME280_01": {
+      "isOperation": true,
+      "TEMP": 21.32,
+      "TEMP_UNIT": "℃",
+      "TEMP_isValid": true,
+      "HUMIDITY": 98.1,
+      "HUMIDITY_UNIT": "%",
+      "HUMIDITY_isValid": true,
+      "PRESSURE": 1013.65,
+      "PRESSURE_UNIT": "hPa",
+      "PRESSURE_isValid": true
+    }
+  },
+  "20220401_2200": {
+    "isOperation": true,
+    "ACTf-CAD_01": {
+      "isOperation": true,
+      "WATER_TEMP": 21.32,
+      "WATER_TEMP_UNIT": "℃",
+      "WATER_TEMP_isValid": true,
+      "SALT": 32.1,
+      "SALT_UNIT": "‰",
+      "SALT _isValid": true,
+      "CONDUCTIVITY": 42.85,
+      "CONDUCTIVITY_UNIT": "mS/cm",
+      "CONDUCTIVITY_isValid": true
+    },
+    "AROf-CAD_01": {
+      "isOperation": true,
+      "WATER_TEMP": 21.32,
+      "WATER_TEMP_UNIT": "℃",
+      "WATER_TEMP_isValid": true,
+      "DOL": 98.1,
+      "DOL_UNIT": "%",
+      "DOL_isValid": true,
+      "DO": 6.85,
+      "DO_UNIT": "mg/l",
+      "DO_isValid": true
+    },
+    "BME280_01": {
+      "isOperation": true,
+      "TEMP": 21.32,
+      "TEMP_UNIT": "℃",
+      "TEMP_isValid": true,
+      "HUMIDITY": 98.1,
+      "HUMIDITY_UNIT": "%",
+      "HUMIDITY_isValid": true,
+      "PRESSURE": 1013.65,
+      "PRESSURE_UNIT": "hPa",
+      "PRESSURE_isValid": true
+    }
+  },
+  "20220401_2300": {
+    "isOperation": true,
+    "ACTf-CAD_01": {
+      "isOperation": true,
+      "WATER_TEMP": 21.32,
+      "WATER_TEMP_UNIT": "℃",
+      "WATER_TEMP_isValid": true,
+      "SALT": 32.1,
+      "SALT_UNIT": "‰",
+      "SALT _isValid": true,
+      "CONDUCTIVITY": 42.85,
+      "CONDUCTIVITY_UNIT": "mS/cm",
+      "CONDUCTIVITY_isValid": true
+    },
+    "AROf-CAD_01": {
+      "isOperation": true,
+      "WATER_TEMP": 21.32,
+      "WATER_TEMP_UNIT": "℃",
+      "WATER_TEMP_isValid": true,
+      "DOL": 98.1,
+      "DOL_UNIT": "%",
+      "DOL_isValid": true,
+      "DO": 6.85,
+      "DO_UNIT": "mg/l",
+      "DO_isValid": true
+    },
+    "BME280_01": {
+      "isOperation": true,
+      "TEMP": 21.32,
+      "TEMP_UNIT": "℃",
+      "TEMP_isValid": true,
+      "HUMIDITY": 98.1,
+      "HUMIDITY_UNIT": "%",
+      "HUMIDITY_isValid": true,
+      "PRESSURE": 1013.65,
+      "PRESSURE_UNIT": "hPa",
+      "PRESSURE_isValid": true
+    }
+  }
+}
