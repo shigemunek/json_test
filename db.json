@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "id": 20220401_0000,
+      "id": "20220401_0000",
       "isOperation": true,
       "ACTf-CAD_01": {
       "isOperation": true,
@@ -38,7 +38,6 @@
       "PRESSURE": 1013.65,
       "PRESSURE_UNIT": "hPa",
       "PRESSURE_isValid": true
-    }
-    }
+    }}
   ]
 }
